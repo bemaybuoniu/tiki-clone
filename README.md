@@ -1,1 +1,1 @@
-# tikifake.github.io
+https://bemaybuoniu.github.io/tiki-clone/
